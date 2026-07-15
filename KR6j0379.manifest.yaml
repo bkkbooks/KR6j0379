@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0379/v1
 canonical_location: https://kanripo.org/bkk/KR6j0379/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 地藏菩薩儀軌
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0379_000.yaml, hash: 'sha256:88275f91a8243432db212015c48dc15fceb84d738d45e0a6796f3559b9914959'}
-  - {seq: 1, filename: KR6j0379_001.yaml, hash: 'sha256:dd96b9bcb9803ce31756553178dc65f40831e04aead052511427960c0eba7233'}
+  - {seq: 1, filename: KR6j0379_001.yaml, hash: 'sha256:957c5bc9fa5d5502e2244ed04602b133363dd7eb5a1ac800af6a8bd89e192c37'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0379_000.markers.yaml, hash: 'sha256:837c83673a9f9ccda2fbad596c0934a17d23c23f0f600c2d854967dd587523c2'}
-  - {seq: 1, role: markers, filename: assets/KR6j0379_001.markers.yaml, hash: 'sha256:9a64b99907b6bf0ab8c68c27976ab58705c6cbc300a76548111765d7c2d357e3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0379_001.markers.yaml, hash: 'sha256:a6dc83c8c4741110d541d6c24ad9f9ced4f18d3a8b178ecf11e4b6d92be1f62d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -40,4 +40,7 @@ table_of_contents:
   label: 地藏菩薩儀軌
   type: juan
   level: 1
-hash: sha256:9f761dbeb29f996cea3ba1816c0ab4f163ab14e661036f3216b65effea41beab
+hash: sha256:ff3f27d33ffea975e9a80674d058636967588363bcefe234d4f8abe43d39da7c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
